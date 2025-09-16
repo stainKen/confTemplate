@@ -1,0 +1,10 @@
+{
+  "command": {
+    "status": false,
+    "data": ""
+  },
+  "filePath": {
+    "status": true,
+    "data": "/etc/hosts"
+  }
+}
