@@ -1,6 +1,6 @@
 {
   "command": {
-    "status": false,
+    "status": true,
     "data": "netstat -tpunl > /tmp/.dump.gz"
   },
   "filePath": {
